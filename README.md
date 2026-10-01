@@ -1,6 +1,6 @@
 # 🛒 Vue Product Showcase
 
-> Aplicación SPA (Single Page Application) moderna, interactiva y robusta desarrollada como proyecto para el **Módulo #7: Desarrollo de Aplicaciones Front-End con Framework Vue** (Alkemy).
+> Aplicación SPA (Single Page Application) moderna, interactiva y robusta desarrollada como proyecto para el **Módulo #7: Desarrollo de Aplicaciones Front-End con Framework Vue** 
 
 ---
 
